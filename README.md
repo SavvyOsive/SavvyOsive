@@ -8,3 +8,5 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with gsod 
 - 📫 How to reach me: [TeamOsive](https://osive.tk/team/)
 
+[![Team Osive's GitHub stats](https://github-readme-stats.vercel.app/api?username=SavvyOsive)](https://github.com/SavvyOsive/github-readme-stats)
+
