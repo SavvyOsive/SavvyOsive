@@ -1,14 +1,87 @@
-### Here are the things I work on 👋
+### Here are the things we work on 👋
 
-Here are some ideas to get you started:
+📫 Our Profile [TeamOsive](https://osive.tk/team/)
 
-- 🔭 I’m currently working on Documentation
-- 🌱 I’m currently learning documentation as code 
-- 👯 I’m looking to collaborate on documentation 
-- 🤔 I’m looking for help with gsod 
-- 📫 How to reach me: [TeamOsive](https://osive.tk/team/)
 
-[![Team Osive's GitHub stats](https://github-readme-stats.vercel.app/api?username=SavvyOsive)](https://github.com/SavvyOsive/github-readme-stats)
+## Tech Stack :computer:
+
+<br>
+<table>
+<tbody>
+ <tr>
+<td align="center" width="20%">
+<span><b><center>Ansible</center></b></span> 
+<img height=60px src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSEbbMBYx3DSbnzVxofkkvdV83FRA-lma9Y_Q&usqp=CAU"> 
+</td>
+
+<td align="center" width="20%">
+<span><b><center>AWS</center></b></span> 
+<img height=60px src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQV9AyEyvrlIJLOfbxFLfOr03Qy5gRL0txWMQ&usqp=CAU"> 
+</td>
+
+<td align="center" width="20%">
+<span><b><center>Docker</center></b></span> 
+<img height=60px src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTApU_6Eg4oWx3NMhLifHmNEkxjeMxfd3oGUA&usqp=CAU"> 
+</td>
+</tr>
+
+<tr>
+<td align="center" width="20%">
+<span><b><center>Flask</center></b></span> 
+<img height=65px src="https://www.pngitem.com/pimgs/m/159-1595977_flask-python-logo-hd-png-download.png"> 
+</td>
+
+<td align="center" width="20%">
+<span><b><center>Git</center></b></span> 
+<img height=65px src="https://git-scm.com/images/logos/downloads/Git-Logo-2Color.png"> 
+</td>
+
+<td align="center" width="20%">
+<span><b><center>Jenkins</center></b></span> 
+<img height=65px src="https://www.devteam.space/wp-content/uploads/2018/03/jenkins.jpg"> 
+</td>
+</tr>
+
+<tr>
+<td align="center" width="20%">
+<span><b><center>Kubernetes</center></b></span> 
+<img height=65px src="https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2019/05/Kubernetes_New.png"> 
+</td>
+
+<td align="center" width="20%">
+<span><b><center>Linux System Administration</center></b></span> 
+<img height=65px src="https://upload.wikimedia.org/wikipedia/commons/a/af/Tux.png"> 
+</td>
+
+
+
+<td align="center" width="20%">
+<span><b><center>Python</center></b></span> 
+<img height=65px src="https://www.python.org/static/community_logos/python-logo.png"> 
+</td>
+</tr>
+
+<tr>
+<td align="center" width="20%">
+<span><b><center>MongoDB</center></b></span> 
+<img height=65px src="https://www.logolynx.com/images/logolynx/d5/d50b83324fb4fbab14cdfaf47409115b.jpeg"> 
+</td>
+
+<td align="center" width="20%">
+<span><b><center>Nginx</center></b></span> 
+<img height=65px src="http://www.myiconfinder.com/uploads/iconsets/256-256-cf2ed3956a3a1484f83ed20d7e987f21.png"> 
+</td>
+
+<td align="center" width="20%">
+<span><b><center>SQL</center></b></span> 
+<img height=65px src="https://i0.wp.com/www.complexsql.com/wp-content/uploads/2017/01/sql-logo.jpg?ssl=1"> 
+</td>
+</tr>
+
+</tbody>
+</table>
+
+
 
 ![Team Image](https://assets-global.website-files.com/5a690960b80baa0001e05b0f/5c9cc3d253b93c326aced801_Positive-Team-Culture%20.png)
 
@@ -33,17 +106,20 @@ Here are some ideas to get you started:
   </a>
 </p>
 
-<p align="center">
-  <img width="48%" src="https://i.gifer.com/QRlt.gif" alt="Adding gif" />
-  <img width="48%" src="https://cdn.dribbble.com/users/24711/screenshots/5371151/hero-motio.gif" alt="Our Team" />
-</p>
-
+![](https://cdn.dribbble.com/users/24711/screenshots/5371151/hero-motio.gif)
 
 ---
+
+[![Team Osive's GitHub stats](https://github-readme-stats.vercel.app/api?username=SavvyOsive)](https://github.com/SavvyOsive/github-readme-stats)
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=SavvyOsive&show_icons=true&theme=tokyonight" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=SavvyOsive&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=SavvyOsive&show_icons=true" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=SavvyOsive" />
 </p>
 
 <h4 align="center">Testimonials</h4>
