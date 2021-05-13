@@ -11,7 +11,6 @@
 
 📫 Profile [SavvyOsive](https://savvy-ryzen.github.io/profile/)
 
-
 ## Blockchain :chains:
 
 
@@ -88,16 +87,6 @@
 <span><b><center>R3 Corda</center></b></span> 
 <img height=60px src="https://financialit.net/sites/default/files/build-cordapp-on-r3-corda-open-source-blockchain-solutions.jpg"> 
 </td>
-</tr>
-
-
-<tr>
-<td align="center" width="20%">
-<span><b><center>Solidity</center></b></span> 
-<img height=60px src="https://en.bitcoinwiki.org/upload/en/images/thumb/d/d5/Solidity.png/400px-Solidity.png"> 
-</td>
- 
-
 </tr>
 
 </tbody>
@@ -333,22 +322,26 @@
 <span><b><center>Rust</center></b></span> 
 <img height=60px src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Rust_programming_language_black_logo.svg/1200px-Rust_programming_language_black_logo.svg.png"> 
 </td>
+  
+ <td align="center" width="20%">
+<span><b><center>Rocket</center></b></span> 
+<img height=60px src="https://19yw4b240vb03ws8qm25h366-wpengine.netdna-ssl.com/wp-content/uploads/Rocket-300x187.png"> 
+</td>  
  
 <td align="center" width="20%">
 <span><b><center>Read The Docs</center></b></span> 
 <img height=60px src="https://piepdxblog.files.wordpress.com/2014/08/readthedocsbranding.jpg"> 
 </td>
- 
+
+</tr>
+
+<tr>
+
 <td align="center" width="20%">
 <span><b><center>Spring</center></b></span> 
 <img height=60px src="https://i.dlpng.com/static/png/6976303_preview.png"> 
 </td>
 
-</tr>
-
-</tr>
-
-<tr>
 <td align="center" width="20%">
 <span><b><center>Vaadin</center></b></span> 
 <img height=60px src="https://vaadin.com/images/trademark/PNG/VaadinLogo_RGB_1000x310.png"> 
@@ -359,20 +352,25 @@
 <img height=60px src="https://miro.medium.com/max/855/1*Kd7mrwqmrzyAudv8tS-OdQ.png"> 
 </td>
 
+</tr>
+
+<tr>
+  
 <td align="center" width="20%">
 <span><b><center>PHP</center></b></span> 
 <img height=60px src="https://cms-assets.tutsplus.com/uploads/users/413/posts/31839/preview_image/php-wide-retina-preview.png"> 
 </td>
-
-</tr>
-
-<tr>
  
  <td align="center" width="20%">
 <span><b><center>Laravel</center></b></span> 
 <img height=60px src="https://www.codeforest.net/wp-content/uploads/2013/04/laravel-logo-big-570x398.png"> 
 </td>
- 
+
+<td align="center" width="20%">
+<span><b><center>Solidity</center></b></span> 
+<img height=60px src="https://en.bitcoinwiki.org/upload/en/images/thumb/d/d5/Solidity.png/400px-Solidity.png"> 
+</td>
+
 </tr>
 
 
@@ -392,7 +390,7 @@
 <h4 align="center">My Projects</h4>
 <h1 align="center">❝</h1>
 
-<table>
+<table align="center">
   <tr>
     <th>Projects</th>
     <th>Description</th>
@@ -406,13 +404,19 @@
     <td>Blockchain Powered Procurement Platform</td>
   </tr>
   <tr>
-    <td>SODA Foundation</a></td>
-    <td>Worked on Documentation for Soda Foundation</td>
-  </tr>
-  <tr>
     <td>Aliyda</td>
     <td>Blockchain platform to help rape victims.</td>
   </tr>
+  <tr>
+    <td>Lawgicals</td>
+    <td>Blockchain for evidence management and legal activities</td>
+  </tr>
+    <tr>
+    <td>SODA Foundation</a></td>
+    <td>Worked on Documentation for Soda Foundation</td>
+  </tr>
+  
 </table>
+<h4 align="center">... and many more</h4>
 
 <h1 align="center">❞</h1>
