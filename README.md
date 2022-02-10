@@ -7,9 +7,9 @@
 </p>
 
 
-### Here are the things I work on 👋
+<!-- ### Here are the things I work on 👋 
 
-📫 Profile [SavvyOsive](https://savvy-ryzen.github.io/profile/)
+📫 Profile [SavvyOsive](https://savvy-ryzen.github.io/profile/) -->
 
 ## Blockchain :chains:
 
